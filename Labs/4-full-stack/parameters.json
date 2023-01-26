@@ -20,8 +20,8 @@
         "firewallRulesList": {
             "value": [{
                 "name": "myip",
-                "endIpAddress": "0.0.0.0",
-                "startIpAddress": "0.0.0.0"
+                "endIpAddress": "76.224.7.32",
+                "startIpAddress": "76.224.7.32"
             },
             {
                 "name": "azure_services",
@@ -33,7 +33,7 @@
             "value": 1
         },
         "repositoryUrl": {
-            "value": "https://github.com/<github_user>/Azure-Bicep-Workshop"
+            "value": "https://github.com/BBISWilliams/Azure-Bicep-Workshop"
         },
         "branch": {
             "value": "main"
